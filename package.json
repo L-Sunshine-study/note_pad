@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "knex": "^0.95.14",
+    "koa": "^2.13.4",
+    "koa-bodyparser": "^4.3.0",
+    "koa-router": "^10.1.1",
+    "pg": "^8.7.1"
+  }
+}
